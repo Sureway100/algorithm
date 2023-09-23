@@ -1,0 +1,5 @@
+1. bigO is a numerical representation of how efficient our algorithm and data structure is.
+2. how our code performs as compareed to others
+3. when your code slows down or crashes, identifying part of the codes that are 
+efficient can help us find the pain points in our application
+4. bigO is about readability, less memory, more readable
